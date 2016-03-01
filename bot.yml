@@ -1,6 +1,6 @@
-name: nodebot
-description: A simple node.js starter bot for Beep Boop
-avatar: resources/avatar.png
+name: king5bot
+description: News, weather, and more from KING 5's bot
+avatar: resources/king400.png
 #background: resources/background.png
 #config:
 #  - name: OPTION
