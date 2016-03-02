@@ -1,0 +1,17 @@
+name: king5bot
+description: News, weather, and more from KING 5's bot
+avatar: resources/king400.png
+#background: resources/background.png
+config:
+  - name: WIT_TOKEN
+    friendly_name: Wit API key
+    info: Grab from https://wit.ai/
+#    default: the default value
+#  - name: SECRET
+#    friendly_name: Shhhh
+#    info: This is an secret option
+#    type: secret
+#    default: not secret though
+#screenshots:
+#  - screenshot: resources/screenshot1.png
+#  - screenshot: resources/screenshot2.jpg
